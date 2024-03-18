@@ -1,0 +1,2 @@
+1. From the Mainland just go north, the map north of the mainland is the desert.
+Note: there is nothing in the desert but sand. Also while you are in the desert your thirst will go up very fast due to the heat. Most of the guides on BSG will show you how to travel around the desert instead of going through it.

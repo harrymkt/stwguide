@@ -1,0 +1,21 @@
+void main()
+{
+string i=input_box("folder","type the name of the folder containing the files you want to list and create link in filenames.");
+//if(i=="") exit();
+string i1=input_box("opening","additional open character for each");
+string i2=input_box("closing","additional closing character for each");
+string d="docs/"+i;
+string[] f=find_directories(d+"/*");
+if(f.length()<1) return;
+string ip;
+for(uint a=0;a<f.length();a++)
+{
+string fa=f[a];
+fa=string_replace(fa,"_"," ",true);
+fa=string_replace(fa,"-"," ",true);
+ip+=i1+"["+fa+"]("+f[a]+")"+i2+"\r\n";
+}
+ip=string_trim_right(ip,string_len("\r\n"));
+clipboard_copy_text(ip);
+alert("ok","success, "+f.length());
+}
