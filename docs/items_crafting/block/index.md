@@ -1,6 +1,6 @@
 # Block
 
-a Block is useful in order to craft items such as Boat.
+a Block is useful in order to craft items such as [Boat](../boat).
 
 ## Raw Resources Required
 * 2 wood

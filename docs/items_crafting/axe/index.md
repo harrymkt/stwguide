@@ -1,6 +1,6 @@
 # axe
 
-an Axe is useful during the fight, probably as a weapon. it is not strong as sword though, but you may find this useful when you really needed!
+an Axe is useful during the fight, probably as a weapon. it is not strong as [sword](../sword) though, but you may find this useful when you really needed!
 
 ## Raw Resources Required
 

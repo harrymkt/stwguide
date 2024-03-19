@@ -1,6 +1,6 @@
 # Arrow
 
-an Arrow is useful during the fight, probably as an ammo of the Bow.
+an Arrow is useful during the fight, probably as an ammo of the [Bow](../bow).
 
 ## Resources Required:
 

@@ -1,9 +1,9 @@
 # bow
 
-a Bow is useful during the fight, probably as a weapon. it holds Arrow as an ammo.
+a Bow is useful during the fight, probably as a weapon. it holds [Arrow](../arrow) as an ammo.
 
 ## Raw Resources Required
-* 10 Grass, or 1 String
+* 10 Grass, or 1 [String](../string)
 * 4 Branch
 * 1 Paper
 * 10 Sand

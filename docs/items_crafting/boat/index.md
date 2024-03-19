@@ -1,9 +1,9 @@
 # Boat
 
-a Boat is useful to travel across the oceans. it requires a Paddle and both of them have to be combined over and over to row the Boat.
+a Boat is useful to travel across the oceans. it requires a [Paddle](../paddle) and both of them have to be combined over and over to row the Boat.
 
 ## Raw Resources Required
-* 20 Grass, or 2 String
+* 20 Grass, or 2 [String](../string)
 * 4 wood
 * 4 Clay
 * 4 Branch

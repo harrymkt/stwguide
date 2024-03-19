@@ -4,7 +4,7 @@ string i=input_box("folder","type the name of the folder containing the files yo
 //if(i=="") exit();
 string i1=input_box("opening","additional open character for each");
 string i2=input_box("closing","additional closing character for each");
-string d="docs/"+i;
+string d="../docs/"+i;
 string[] f=find_directories(d+"/*");
 if(f.length()<1) return;
 string ip;
