@@ -1,3 +1,4 @@
+
 Note: This guide starts on the beach of the Mainland south of the stream.
 1. Face and travel east at 90 degrees until you reach the eastern map border of the mainland.
 2. Turn and travel south to the southern border which is a travelpoint.
@@ -13,7 +14,9 @@ Note: This guide starts on the beach of the Mainland south of the stream.
 12. Once you reach the southern map border turn and travel west at 270 until you reach the western map border of the city.
 13. Once at the western border back up one step(east) so you are not on the travelpoint to exit the city west.
 14. Turn and face south at 180 then exit the city south at this point into another ocean.
-Note: You will lose a small amount of health in the city every few seconds. You can avoid this by traveling in the ocean to the east, and then in the ocean south. The problem with this is you cannot bike in the shallow part of the ocean. If you choose to walk in the ocean instead just make sure you enter back into the city and exit the city south, then continue west to the western map border of the ocean. Overall the health loss is very small and it is nothing to worry about.
+	
+	Note: You will lose a small amount of health in the city every few seconds. You can avoid this by traveling in the ocean to the east, and then in the ocean south. The problem with this is you cannot bike in the shallow part of the ocean. If you choose to walk in the ocean instead just make sure you enter back into the city and exit the city south, then continue west to the western map border of the ocean. Overall the health loss is very small and it is nothing to worry about.
+	
 15. Take a few steps south after exiting the city until you reach the deep part of the ocean. Paddle all the way south across this ocean.
 16. When you cross the ocean walk through the shallow water on it's southern border and exit the ocean south into the marsh.
 17. Enter the Southern Marsh and take two steps forward(south). Then step to your right(west) until you are at the travelpoint to leave the marsh west.

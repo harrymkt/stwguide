@@ -30,7 +30,7 @@ Makes 1 Paddle
 Makes 1 Disfigured Paddle Half
 # step8: Disfigured Paddle Half + Knife
 Makes 1 Sword Handle
-# step9: Forge Hammer + Metal
+# step9: Forge [Hammer](../hammer) + Metal
 Makes 1 Bent Metal
 Note: Will have to press T multiple times
 # step10: Forge Bent Metal + Knife
@@ -39,10 +39,10 @@ Note: Will have to press T multiple times.
 # step11: Forge Crude Sword Blade + Sword Handle
 Makes 1 Loosly Connected Crude Sword
 Note: Will have to press T multiple times
-# step12: Loosly Connected Crude Sword + String
+# step12: Loosly Connected Crude Sword + [String](../string)
 Makes 1 Crude Sword
 Note: Will have to press T multiple times
-# step13: Forge Crude Sword + Hammer
+# step13: Forge Crude Sword + [Hammer](../hammer)
 Makes 1 Dull Sword
 Note 1: Will have to press T and alt T multiple times.
 Note 2: Press T until told the sword is not flat enough, then press Alt T. Repeat until finished.

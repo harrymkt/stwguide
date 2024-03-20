@@ -1,6 +1,6 @@
 # Lost Fisherman Boots:
 
-Note: This guide starts in the fishing village of Western Otion.
+Note: This guide starts on just the main street of fishing village.
 
 1.  Find the main street of the small fishing village.
 2.  Once you are on the main street, walk north until you are on grass.

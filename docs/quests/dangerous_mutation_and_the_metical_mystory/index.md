@@ -1,14 +1,14 @@
 # Dangerous Mutation and the Medical Mystery
 
-This guide starts on the northeast border of the small fishing village on the harbor near the ocean.
+This guide starts on the northeast border of the **small fishing village** on the harbor near the ocean.
 
-First, you need to have a dead mutated wolf, which you can get through killing one or picking up one on the ground.
+First, you need to have a **dead mutated wolf**, which you can get through killing one or picking up one on the ground.\
 
-Second, you need to have unlabel 2832 ketset, which is available on the ground of the hospital.
+Second, you need to have **unlabeled 2832 ketset**, which is available on the ground of the hospital.\
 
-Once you have the above two requirements, look at your accept quests menu and accept the Dangerous Mutation quest. For this, you will get 200 STW points.
+Once you have the above two requirements, look at your accept quests menu and accept the **Dangerous Mutation quest**. For this, you will get 200 STW points.\
 
-Once you've accepted the quest, follow the guide below.
+Once you've accepted the quest, follow the guide below.\
 
 Make sure to equip your shield.
 
@@ -26,7 +26,7 @@ Make sure to equip your shield.
 
 8. Press M and find an item, and pick it up. Make sure to get a weapon in your hand, just in case an animal comes to attack you.
 9. If you have the item, turn and travel south until you reach the clay tile. Note: You will see mutated wolves near you. However, do not be scared; they cannot attack or kill you unless you go to the concrete near the rocks.
-10. If you've reached the clay, press the spacebar with an empty hand once to pick up an item. Warning: You cannot pick it up more than once, as it will try to warn you, but it cannot actually prevent you from pressing the key. However, the item will not be picked up. Now, you'll get mutated wolf poop.
+10. If you've reached the clay, press the spacebar with an empty hand once to pick up an item. Warning: You cannot pick it up more than once, as it will try to warn you, but it cannot actually prevent you from pressing the key. However, the item will not be picked up. Now, you'll get **mutated wolf poop**.
 11. Turn and travel north until you reach the wall, which is a travel point to exit the pharmacy. Press Shift + Enter and go out of the pharmacy.
 
 This should complete the quest.

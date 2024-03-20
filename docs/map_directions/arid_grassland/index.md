@@ -15,9 +15,9 @@ Note: This guide starts on the Mainland southwest of where the river bends and f
 6. On the western border of the wasteland, use the travel point to exit the map to the west.
 
 7. You are now in the pine forest. Continue to travel west at 270 degrees until you reach the stream that flows north and south.
-
-Note: Don't go in the stream yet. Stay on the eastern side of the stream in the mud.
-
+	
+	Note: Don't go in the stream yet. Stay on the eastern side of the stream in the mud.
+	
 
 8. Once you reach the stream, turn and travel north at 0 degrees. Follow the stream until you reach the northern map border.
 
