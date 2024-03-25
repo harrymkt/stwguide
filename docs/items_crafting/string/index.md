@@ -6,6 +6,7 @@ a string's useful to connect to something else, such as to a [hammer](../hammer)
 * 10 Grass
 
 # step1: Grass + Grass
+
 makes 1 **String**
 
 Easy, right? go away and make strings for your future needs!

@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.md linguist-detectable
+*.bgt linguist-language=angelScript
+*.html linguist-language=HTML
+*.txt linguist-detectable linguist-language=Text

@@ -6,6 +6,7 @@ a Sword with a possible good strength.
 * 3 Wood
 * 1 metal
 * 1 String or 10 Grass
+
 ## Tools Required
 * 1 Knife
 * 1 Stone
