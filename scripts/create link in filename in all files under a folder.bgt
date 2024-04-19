@@ -6,13 +6,28 @@ string i1=input_box("opening","additional open character for each");
 string i2=input_box("closing","additional closing character for each");
 string d="../docs/"+i;
 string[] f=find_directories(d+"/*");
-if(f.length()<1) return;
+if(f.length()<1) exit();
 string ip;
 for(uint a=0;a<f.length();a++)
 {
-string fa=f[a];
-fa=string_replace(fa,"_"," ",true);
-fa=string_replace(fa,"-"," ",true);
+string fan=f[a];
+fan=string_replace(fan,"_"," ",true);
+fan=string_replace(fan,"-"," ",true);
+string[] fb=string_split(fan," ",true);
+string fa="";
+if(fb.length()>0)
+{
+for(uint j=0;j<fb.length();j++)
+{
+if(fb[j].length()>0) fb[j][0]=string_to_upper_case(fb[j][0]);
+fa+=fb[j]+" ";
+}
+while(string_right(fa,1)==" ")
+{
+fa=string_trim_right(fa,1);
+}
+}//fb length.
+
 ip+=i1+"["+fa+"]("+f[a]+")"+i2+"\r\n";
 }
 ip=string_trim_right(ip,string_len("\r\n"));

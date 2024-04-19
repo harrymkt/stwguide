@@ -1,12 +1,12 @@
-# stwguide
+# STW Guide
 
-guides including quests, map directions, item craftings and more on the game called survive the wild
+Guides including quests, map directions, item craftings and more on the game called Survive The Wild
 
-[visit full live site](https://harrymkt.github.io/stwguide)
+[Visit full live site](https://harrymkt.github.io/stwguide)
 
-want to download full zip instead? [download zip](https://codeload.github.com/harrymkt/stwguide/zip/refs/heads/main) here!
+Want to download full zip instead? [Download zip](https://codeload.github.com/harrymkt/stwguide/zip/refs/heads/main) here!
 
-## contributing
+## Contributing
 
-you can contribute If you would like to do so.
+You can contribute If you would like to do so.
 
